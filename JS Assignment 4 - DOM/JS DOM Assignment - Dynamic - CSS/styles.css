@@ -1,0 +1,37 @@
+.text-here {
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    text-align: left;
+    letter-spacing: normal;
+    word-spacing: normal;
+}body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+#text-container {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #e0e0e0;
+    border: 1px solid #ccc;
+}
+
+input, select, button {
+    margin: 2px;
+    padding: 2%;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.stylebt {
+    margin-right: 10px;
+}
